@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/MartynaStrzempek/MacroTrackingApp.svg?branch=master)](https://travis-ci.com/MartynaStrzempek/MacroTrackingApp)
+[![Build Status](https://travis-ci.com/MartynaStrzempek/MacroTrackingApp.svg?branch=develop)](https://travis-ci.com/MartynaStrzempek/MacroTrackingApp)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
